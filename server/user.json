@@ -1,0 +1,50 @@
+[
+  {
+    "objectId": "12345",
+    "Username": "user1",
+    "password": "123456",
+    "fName": "Rajiv",
+    "lName": "Sharma",
+    "email": "rajiv.sharma@gmail.com",
+    "phone": "+198987866676",
+    "address": "test address",
+    "role": "admin",
+    "clientId": ""
+  },
+  {
+    "objectId": "123456",
+    "Username": "user2",
+    "password": "123456",
+    "fName": "Jason",
+    "lName": "K",
+    "email": "jason.k@gmail.com",
+    "phone": "+198987866676",
+    "address": "test address",
+    "role": "client",
+    "clientId": ""
+  },
+  {
+    "objectId": "1234567",
+    "Username": "user3",
+    "password": "123456",
+    "fName": "Andy",
+    "lName": "Getz",
+    "email": "andy.getz@gmail.com",
+    "phone": "+198987866676",
+    "address": "test address",
+    "role": "user",
+    "clientId": "123456"
+  },
+  {
+    "objectId": "12345678",
+    "Username": "user4",
+    "password": "123456",
+    "fName": "adam",
+    "lName": "l",
+    "email": "adam.l@gmail.com",
+    "phone": "+198987866676",
+    "address": "test address",
+    "role": "user",
+    "clientId": "123456"
+  }
+]

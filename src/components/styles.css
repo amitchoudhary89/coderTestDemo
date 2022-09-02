@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login input {
+  padding: 5px;
+  margin: 5px;
+}
+
+.login button {
+  height: 32px;
+  width: 100px;
+  background-color: #61daee;
+  border: 0px;
+}
+
+.logout {
+  cursor: pointer;
+  color: blue;
+}
